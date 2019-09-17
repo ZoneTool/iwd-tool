@@ -1,3 +1,8 @@
+![license](https://img.shields.io/github/license/ZoneTool/iwd-tool.svg)
+![stars](https://img.shields.io/github/stars/ZoneTool/iwd-tool.svg)
+[![discord](https://discordapp.com/api/guilds/219514629703860235/widget.png)](https://discord.gg/a6JM2Tv)
+<p align="center"><img src="plutonium_logo.jpg" alt="Plutonium"/>
+
 # iwd-tool
 iwd-tool, a command-line tool for generating iwd files. The main purpose of this tool is to filter out duplicated images between Call of Duty: Modern Warfare 2 and Call of Duty: Online.
 
