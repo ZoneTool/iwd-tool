@@ -121,6 +121,8 @@ std::string read_file(const std::filesystem::path& path)
 
 int main(int argc, char** argv)
 {
+	std::cout << "iwd-tool by RektInator." << std::endl;
+
 	try
 	{
 		auto dump_file = static_cast<std::string>("dump.cfg");
